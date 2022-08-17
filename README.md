@@ -11,12 +11,8 @@
 
 
 
-![屏幕截图 2022-08-17 121236](C:\Users\Administrator\Desktop\屏幕截图 2022-08-17 121236.png)
-
-
-
 ###### 如果你想直接使用的话
 
-链接：https://pan.baidu.com/s/1SRWgLAZWFzOzQjzq5ZdZdw?pwd=72cb 
-提取码：72cb 
+链接：https://pan.baidu.com/s/1SRWgLAZWFzOzQjzq5ZdZdw?pwd=72cb  
+提取码：72cb  
 --来自百度网盘超级会员V6的分享
