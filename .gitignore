@@ -1,0 +1,13 @@
+Logs/
+Library/
+.vs/
+.vscode/
+.idea/
+obj/
+Temp/
+Windwos/
+Packages/
+.vsconfig
+Assembly-CSharp.csproj
+DOTween.Modules.csproj
+MapEditor.sln
